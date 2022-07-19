@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pieterbk
 - 👀 I’m interested in Data Science, ML, AI, NLP
-- 🌱 I’m currently learning Business Analytics / Data Science
+- 🌱 I’m currently learning Engineering
 - 💞️ I’m looking for work!
 - 📫 How to reach me:
         LinkedIn = "https://www.linkedin.com/in/pieterbkrommenhoek/", 
