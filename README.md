@@ -4,7 +4,7 @@
 - 💞️ I’m looking for work!
 - 📫 How to reach me:
         LinkedIn = "https://www.linkedin.com/in/pieterbkrommenhoek/", 
-        Email    = "pieterbernardus@hotmail.com"
+        Email    = "pieterbernardus@gmail.com"
 
 <!---
 pieterbk/pieterbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
